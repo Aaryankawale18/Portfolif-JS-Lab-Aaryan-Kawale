@@ -1,0 +1,2 @@
+# No external dependencies required.
+# Pure HTML/CSS/JS served with Python's built-in http.server
